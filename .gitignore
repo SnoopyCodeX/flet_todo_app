@@ -1,0 +1,4 @@
+build
+components/__pycache__
+dist
+main.spec
