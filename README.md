@@ -15,6 +15,7 @@ This is a simple todo application that is made using [Flet](https://flet.dev)
 - [x] Track current progress in percentage
 - [x] Supports light mode and dark mode
 - [x] Persists tasks locally
+- [x] Filter tasks by status
 
 ## Building
 
